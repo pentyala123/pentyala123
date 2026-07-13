@@ -1,26 +1,36 @@
-
-<!--
-**pentyala123/pentyala123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<!-- ============================================
+<!-- ============================================
      MEGHANA PENTYALA - GITHUB PROFILE README
-     GitHub username: pentyala123
+     Repository: pentyala123/pentyala123
 ============================================= -->
 
+<h1 align="center">Hi 👋, I'm Meghana Pentyala</h1>
+
+<h3 align="center">
+  Generative AI Engineer | AI/ML & Agentic AI | AWS & Azure
+</h3>
+
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=220&section=header&text=Meghana%20Pentyala&fontColor=00F5FF&fontSize=42&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20AI%2FML%20%26%20Agentic%20AI%20%7C%20AWS%20%26%20Azure&descAlignY=57&descSize=17"
-    alt="Meghana Pentyala - Generative AI Engineer"
-  />
+  Building production-grade RAG systems, multi-agent architectures,
+  and healthcare AI solutions.
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/meghana-pentyala-00a146198">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pentyala123.github.io/MeghanaPentyala/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:meghanapentyala.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
 
 ## 🚀 About Me
 
-- 💼 Generative AI Engineer with **4+ years of experience** across the full machine learning and Generative AI lifecycle
+- 💼 Generative AI Engineer with **4+ years of experience** across the machine learning and Generative AI lifecycle
 - 🏥 Specialized in building AI solutions for **healthcare and life sciences**
 - 🤖 Experienced in production-grade **RAG pipelines, multi-agent architectures, and clinical decision-support systems**
 - 🧠 Currently designing scalable **LangGraph-based multi-agent systems** with supervisor routing, specialized agents, and human-in-the-loop workflows
@@ -202,7 +212,7 @@ University of North Texas, Denton, Texas
   </a>
 </p>
 
-<br>
+---
 
 <p align="center">
   <b>💡 Building reliable, responsible, and production-ready AI systems for real-world impact.</b>
@@ -211,13 +221,3 @@ University of North Texas, Denton, Texas
 <p align="center">
   ⭐ If you find my work useful, consider starring my repositories! ⭐
 </p>
-
-<!-- Footer -->
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=120&section=footer"
-    alt="Footer"
-  />
-</p>
-
