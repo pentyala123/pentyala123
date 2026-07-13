@@ -3,7 +3,7 @@
      Repository: pentyala123/pentyala123
 ============================================= -->
 
-<h1 align="center">Hi 👋, I'm Meghana Pentyala</h1>
+<h1 align="center">Meghana Pentyala</h1>
 
 <h3 align="center">
   Generative AI Engineer | AI/ML & Agentic AI | AWS & Azure
