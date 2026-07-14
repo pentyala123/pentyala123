@@ -28,24 +28,24 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💼 Generative AI Engineer with **4+ years of experience** across the machine learning and Generative AI lifecycle
-- 🏥 Specialized in building AI solutions for **healthcare and life sciences**
-- 🤖 Experienced in production-grade **RAG pipelines, multi-agent architectures, and clinical decision-support systems**
-- 🧠 Currently designing scalable **LangGraph-based multi-agent systems** with supervisor routing, specialized agents, and human-in-the-loop workflows
-- 📚 Building grounded AI applications using **LangChain, Weaviate, Azure AI Foundry, Hugging Face, and MCP-based schemas**
-- ⚡ Experienced in serving AI systems through **FastAPI and Streamlit**, supporting more than 1,500 queries per day
-- ☁️ Hands-on experience deploying AI and data platforms across **AWS and Microsoft Azure**
-- 🛡️ Focused on LLM evaluation, responsible AI guardrails, content safety, observability, and low-latency production systems
-- 🎓 Master of Science in Computer and Information Sciences from the **University of North Texas**
-- 💬 Ask me about **Agentic AI, LangGraph, RAG, healthcare AI, MLOps, AWS, or Azure**
+-  Generative AI Engineer with **4+ years of experience** across the machine learning and Generative AI lifecycle
+-  Specialized in building AI solutions for **healthcare and life sciences**
+-  Experienced in production-grade **RAG pipelines, multi-agent architectures, and clinical decision-support systems**
+-  Currently designing scalable **LangGraph-based multi-agent systems** with supervisor routing, specialized agents, and human-in-the-loop workflows
+-  Building grounded AI applications using **LangChain, Weaviate, Azure AI Foundry, Hugging Face, and MCP-based schemas**
+-  Experienced in serving AI systems through **FastAPI and Streamlit**, supporting more than 1,500 queries per day
+-  Hands-on experience deploying AI and data platforms across **AWS and Microsoft Azure**
+-  Focused on LLM evaluation, responsible AI guardrails, content safety, observability, and low-latency production systems
+-  Master of Science in Computer and Information Sciences from the **University of North Texas**
+-  Ask me about **Agentic AI, LangGraph, RAG, healthcare AI, MLOps, AWS, or Azure**
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 🧠 Generative AI & Agentic Systems
+### Generative AI & Agentic Systems
 
 <p>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Prompt_Engineering-9B59B6?style=for-the-badge" alt="Prompt Engineering"/>
 </p>
 
-### 🔍 Retrieval, LLMs & Machine Learning
+###  Retrieval, LLMs & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Weaviate-3EDC84?style=for-the-badge&logo=weaviate&logoColor=black" alt="Weaviate"/>
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/NLP-34495E?style=for-the-badge" alt="NLP"/>
 </p>
 
-### 💻 Programming & Application Development
+###  Programming & Application Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -84,7 +84,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### ☁️ Microsoft Azure
+###  Microsoft Azure
 
 <p>
   <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Foundry"/>
@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/Prompt_Flow-5C2D91?style=for-the-badge" alt="Prompt Flow"/>
 </p>
 
-### ☁️ Amazon Web Services
+###  Amazon Web Services
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
@@ -108,7 +108,7 @@
   <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS IAM"/>
 </p>
 
-### 📊 Data Engineering & MLOps
+### Data Engineering & MLOps
 
 <p>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
@@ -124,33 +124,33 @@
 
 ---
 
-## 🌟 Featured AI Systems
+## Featured AI Systems
 
 | Project | Description | Technology |
 |---|---|---|
-| 🤖 **Multi-Agent Clinical Intelligence Assistant** | LangGraph supervisor routes requests to specialized clinical agents with fallback escalation. Improved response quality by approximately 35% and achieved 92% groundedness. | LangGraph, LangChain, Weaviate, Azure AI Foundry, FastAPI, Streamlit |
-| 🏥 **Enterprise Clinical Knowledge Assistant** | RAG platform supporting more than 80 clinical editors. Reduced evidence lookup time from 25 minutes to under 4 minutes and content authoring time by approximately 40%. | RAG, LangChain, FAISS, Pinecone, FastAPI, AWS, Azure |
-| 🩺 **AI-Powered Doctor Consultation Platform** | Generative AI healthcare platform providing symptom-based triage, doctor recommendations, and LLM-generated consultation summaries. | Python, LangChain, LangGraph, Machine Learning, LLMs |
-| 💳 **Credit Card Fraud Detection System** | Transaction fraud detection solution using classification, anomaly detection, temporal features, behavioral patterns, and aggregation windows. | Python, XGBoost, Random Forest, Scikit-learn |
-| 🧠 **Mental Health Risk Intelligence Platform** | Clinical NLP and risk-prediction platform using longitudinal patient information and transformer-based extraction from unstructured clinical notes. | BERT, Hugging Face, spaCy, TensorFlow, AWS, Spark |
-| ❤️ **Digital Healthcare Experience Platform** | AI-driven provider recommendations, personalized care journeys, and contextual health-assistant responses powered by RAG. | OpenAI, LangChain, XGBoost, AWS, Spark, REST APIs |
+|  **Multi-Agent Clinical Intelligence Assistant** | LangGraph supervisor routes requests to specialized clinical agents with fallback escalation. Improved response quality by approximately 35% and achieved 92% groundedness. | LangGraph, LangChain, Weaviate, Azure AI Foundry, FastAPI, Streamlit |
+|  **Enterprise Clinical Knowledge Assistant** | RAG platform supporting more than 80 clinical editors. Reduced evidence lookup time from 25 minutes to under 4 minutes and content authoring time by approximately 40%. | RAG, LangChain, FAISS, Pinecone, FastAPI, AWS, Azure |
+| **AI-Powered Doctor Consultation Platform** | Generative AI healthcare platform providing symptom-based triage, doctor recommendations, and LLM-generated consultation summaries. | Python, LangChain, LangGraph, Machine Learning, LLMs |
+|  **Credit Card Fraud Detection System** | Transaction fraud detection solution using classification, anomaly detection, temporal features, behavioral patterns, and aggregation windows. | Python, XGBoost, Random Forest, Scikit-learn |
+| **Mental Health Risk Intelligence Platform** | Clinical NLP and risk-prediction platform using longitudinal patient information and transformer-based extraction from unstructured clinical notes. | BERT, Hugging Face, spaCy, TensorFlow, AWS, Spark |
+|  **Digital Healthcare Experience Platform** | AI-driven provider recommendations, personalized care journeys, and contextual health-assistant responses powered by RAG. | OpenAI, LangChain, XGBoost, AWS, Spark, REST APIs |
 
 ---
 
-## 📈 Selected Impact
+## Selected Impact
 
-- 🎯 Achieved **92% groundedness** for a production clinical RAG system
-- ⚡ Supported more than **1,500 queries per day** with average latency below 2.1 seconds
-- 🚀 Reduced AI deployment time from **45 minutes to 8 minutes**
-- 📚 Processed more than **1.2 million clinical documents**
-- 🔍 Reduced clinical evidence lookup time from **25 minutes to under 4 minutes**
-- 🛡️ Reduced hallucination rates to **below 6%** in clinical AI outputs
-- 📊 Maintained **99.5% uptime** with API response latency below 180 milliseconds
-- 🧠 Improved editorial tagging accuracy to **91%**
+- Achieved **92% groundedness** for a production clinical RAG system
+- Supported more than **1,500 queries per day** with average latency below 2.1 seconds
+- Reduced AI deployment time from **45 minutes to 8 minutes**
+- Processed more than **1.2 million clinical documents**
+- Reduced clinical evidence lookup time from **25 minutes to under 4 minutes**
+- Reduced hallucination rates to **below 6%** in clinical AI outputs
+- Maintained **99.5% uptime** with API response latency below 180 milliseconds
+- Improved editorial tagging accuracy to **91%**
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Generative AI Engineer - Capgemini
 
@@ -178,7 +178,7 @@ Contributed to healthcare AI platforms involving mental-health risk prediction, 
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Master of Science in Computer and Information Sciences**  
 University of North Texas, Denton, Texas  
@@ -186,16 +186,16 @@ University of North Texas, Denton, Texas
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
-- ☁️ AWS Certified Data Engineer - Professional
-- 🔷 Microsoft Certified: Azure Data Engineer Associate - DP-203
-- 🔥 Databricks Certified Data Engineer - Associate
-- 🗄️ Structured Query Language - Coursera
+- AWS Certified Data Engineer - Professional
+- Microsoft Certified: Azure Data Engineer Associate - DP-203
+- Databricks Certified Data Engineer - Associate
+- Structured Query Language - Coursera
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/pentyala123">
@@ -215,9 +215,9 @@ University of North Texas, Denton, Texas
 ---
 
 <p align="center">
-  <b>💡 Building reliable, responsible, and production-ready AI systems for real-world impact.</b>
+  <b> Building reliable, responsible, and production-ready AI systems for real-world impact.</b>
 </p>
 
 <p align="center">
-  ⭐ If you find my work useful, consider starring my repositories! ⭐
+   If you find my work useful, consider starring my repositories! 
 </p>
