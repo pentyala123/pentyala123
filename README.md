@@ -123,17 +123,17 @@
 </p>
 
 ---
-
 ## Featured AI Systems
 
 | Project | Description | Technology |
 |---|---|---|
-|  **Multi-Agent Clinical Intelligence Assistant** | LangGraph supervisor routes requests to specialized clinical agents with fallback escalation. Improved response quality by approximately 35% and achieved 92% groundedness. | LangGraph, LangChain, Weaviate, Azure AI Foundry, FastAPI, Streamlit |
-|  **Enterprise Clinical Knowledge Assistant** | RAG platform supporting more than 80 clinical editors. Reduced evidence lookup time from 25 minutes to under 4 minutes and content authoring time by approximately 40%. | RAG, LangChain, FAISS, Pinecone, FastAPI, AWS, Azure |
-| **AI-Powered Doctor Consultation Platform** | Generative AI healthcare platform providing symptom-based triage, doctor recommendations, and LLM-generated consultation summaries. | Python, LangChain, LangGraph, Machine Learning, LLMs |
-|  **Credit Card Fraud Detection System** | Transaction fraud detection solution using classification, anomaly detection, temporal features, behavioral patterns, and aggregation windows. | Python, XGBoost, Random Forest, Scikit-learn |
-| **Mental Health Risk Intelligence Platform** | Clinical NLP and risk-prediction platform using longitudinal patient information and transformer-based extraction from unstructured clinical notes. | BERT, Hugging Face, spaCy, TensorFlow, AWS, Spark |
-|  **Digital Healthcare Experience Platform** | AI-driven provider recommendations, personalized care journeys, and contextual health-assistant responses powered by RAG. | OpenAI, LangChain, XGBoost, AWS, Spark, REST APIs |
+| [Multi-Agent Clinical Intelligence Assistant](https://github.com/pentyala123/life-sciences-multi-agent-chatbot) | Multi-agent routing system that delegates life-sciences questions to specialized agents with retrieval grounding. | Python, OpenAI, RAG, FastAPI |
+| [Enterprise Clinical Knowledge Assistant](https://github.com/pentyala123/enterprise-clinical-knowledge-assistant) | RAG platform for retrieving evidence from clinical and life-sciences knowledge sources. | RAG, LangChain, FAISS, Pinecone, FastAPI, AWS, Azure |
+| [AI-Powered Doctor Consultation Platform](https://github.com/pentyala123/ai-doctor-consultation-platform) | Generative AI healthcare platform providing symptom-based routing, doctor recommendations, and consultation summaries. | Python, Generative AI, Machine Learning, FastAPI |
+| [Credit Card Fraud Detection System](https://github.com/pentyala123/credit-card-fraud-detection-system) | Fraud-detection workflow using classification, anomaly detection, behavioral features, and threshold optimization. | Python, XGBoost, Random Forest, Isolation Forest, Scikit-learn |
+| [Mental Health Risk Intelligence Platform](https://github.com/pentyala123/mental-health-risk-intelligence-platform) | Explainable mental-health review-prioritization platform using synthetic longitudinal records and NLP signals. | Python, NLP, FastAPI, Streamlit, AWS |
+| [Digital Healthcare Experience Platform](https://github.com/pentyala123/digital-healthcare-experience-platform) | Digital healthcare journey with provider discovery, appointments, feedback, and experience analytics. | Python, FastAPI, Streamlit, REST APIs |
+
 
 ---
 
