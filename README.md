@@ -127,7 +127,7 @@
 
 | Project | Description | Technology |
 |---|---|---|
-| [Multi-Agent Clinical Intelligence Assistant](https://github.com/pentyala123/life-sciences-multi-agent-chatbot) | Multi-agent routing system that delegates life-sciences questions to specialized agents with retrieval grounding. | Python, OpenAI, RAG, FastAPI |
+| [Multi-Agent Clinical Intelligence Assistant](https://github.com/pentyala123/Multi-Agent-Clinical-Intelligence-Assistant) | Multi-agent routing system that delegates life-sciences questions to specialized agents with retrieval grounding. | Python, OpenAI, RAG, FastAPI |
 | [Enterprise Clinical Knowledge Assistant](https://github.com/pentyala123/enterprise-clinical-knowledge-assistant) | RAG platform for retrieving evidence from clinical and life-sciences knowledge sources. | RAG, LangChain, FAISS, Pinecone, FastAPI, AWS, Azure |
 | [AI-Powered Doctor Consultation Platform](https://github.com/pentyala123/ai-doctor-consultation-platform) | Generative AI healthcare platform providing symptom-based routing, doctor recommendations, and consultation summaries. | Python, Generative AI, Machine Learning, FastAPI |
 | [Credit Card Fraud Detection System](https://github.com/pentyala123/credit-card-fraud-detection-system) | Fraud-detection workflow using classification, anomaly detection, behavioral features, and threshold optimization. | Python, XGBoost, Random Forest, Isolation Forest, Scikit-learn |
